@@ -23,11 +23,11 @@ This is our brand kit, you'll find the details of how to use our brand assets, a
 
 |  Logo             |   Wordmark                                                         |
 | ----------------- | ------------------------------------------------------------------ |
-|  <img src="https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20primary.png" width="120">  |  <img src="https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20primary.png" width="300">  |
+|  <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Logo/Mode%20logo%20primary.png?raw=true" width="120">  |  <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Wordmark/Mode%20wordmark%20primary.png?raw=true" width="300">  |
 |  [svg](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20primary.svg), [png](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20primary.png) |  [svg](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20primary.svg), [png](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20primary.png) |
-| <img src="https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20black.png" width="120">  |  <img src="https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20black.png" width="300">  |
+| <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Logo/Mode%20logo%20black.png?raw=true" width="120">  |  <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Wordmark/Mode%20wordmark%20black.png?raw=true" width="300">  |
 |  [svg](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20black.svg), [png](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20black.png) |  [svg](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20black.svg), [png](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20black.png) |
-|  <img src="https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20white.png" width="120">  |  <img src="https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20white.png" width="300">  |
+|  <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Logo/Mode%20logo%20white.png?raw=true" width="120">  |  <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Wordmark/Mode%20wordmark%20white.png" width="300?raw=true">  |
 |  [svg](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20white.svg), [png](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20white.png) |  [svg](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20white.svg), [png](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20white.png) |
 
 
@@ -36,7 +36,7 @@ This is our brand kit, you'll find the details of how to use our brand assets, a
 
  <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Usage.png?raw=true" alt="Usages" width="520">
 
-The primary logo is yellow as we build primarily in dark mode, but you can use black to ensure visual contrasts on a light background. On a dark background that uses a greyscale spectrum you can use the white version. Please note that the wordmark and logomark can be used interchangeably, but avoid using them together.
+The primary logo is chartreuse as we build primarily in dark mode, but you can use black to ensure visual contrasts on a light background. On a dark background that uses a greyscale spectrum you can use the white version. Please note that the wordmark and logomark can be used interchangeably, but avoid using them together.
 
 We'd like to keep our logos simple and consistent. So no spinning, no shadows, no extra effects, and no mixing them up with other logos or icons. We'd love to keep things simple and clean.
 
@@ -59,10 +59,10 @@ IBM Plex Mono (uppercase only)
 
 ## Colors
 - **Chartreuse:** `#DFFE00`
-- **Sleek Silver:** `#919191`
-- **Soft Shadow:** `#D2D0CB`
-- **Pure White:** `#FFFFFF`
-- **Deep Black:** `#000000`
+- **Battleship gray:** `#919191`
+- **Timberwolf:** `#D2D0CB`
+- **White:** `#FFFFFF`
+- **Black:** `#000000`
 
 
 ## Support
