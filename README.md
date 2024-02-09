@@ -45,7 +45,8 @@ We'd like to keep our logos simple and consistent. So no spinning, no shadows, n
 
 ### Headline
 Chakra Peth 
-[Font](https://fonts.google.com/specimen/IBM+Plex+Sans)
+[Font](https://fonts.google.com/specimen/Chakra+Petch)
+
 
 ### Body
 IBM Plex Sans 
