@@ -30,7 +30,10 @@ This is our brand kit, you'll find the details of how to use our brand assets, a
 |  <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Logo/Mode%20logo%20white.png?raw=true" width="120">  |  <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Wordmark/Mode%20wordmark%20white.png?raw=true" width="300">  |
 |  [svg](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20white.svg), [png](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Logo/Mode%20logo%20white.png) |  [svg](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20white.svg), [png](https://github.com/mode-network/brandkit/blob/ef5d79dc521a56ca5674697810407fc04f6dec71/Assets/Wordmark/Mode%20wordmark%20white.png) |
 
-
+|  Token icon             |
+| ----------------- |
+|  <img src="https://github.com/mode-network/brandkit/blob/main/Assets/Logo/Token.png?raw=true" width="120">  |
+|  [svg](https://github.com/mode-network/brandkit/blob/main/Assets/Logo/Token.svg), [png](https://github.com/mode-network/brandkit/blob/main/Assets/Logo/Token.png) |
 
 ### Usage
 
