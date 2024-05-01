@@ -18,7 +18,7 @@ This is our brand kit, you'll find the details of how to use our brand assets, a
 
 ## Logos
 
-[Download all assets](https://drive.google.com/file/d/155prNO3L0RQbVwNvD-A0b4Yg9QDKPcu3/view?usp=sharing)
+[Download all assets](https://drive.google.com/file/d/10juMi2OgLoCsn_Ncr2tIC6ACKgWvDfQb/view?usp=sharing)
 
 
 |  Logo             |   Wordmark                                                         |
@@ -42,6 +42,12 @@ This is our brand kit, you'll find the details of how to use our brand assets, a
 The primary logo is chartreuse as we build primarily in dark mode, but you can use black to ensure visual contrasts on a light background. On a dark background that uses a greyscale spectrum you can use the white version. Please note that the wordmark and logomark can be used interchangeably, but avoid using them together.
 
 We'd like to keep our logos simple and consistent. So no spinning, no shadows, no extra effects, and no mixing them up with other logos or icons. We'd love to keep things simple and clean.
+
+## Visual assets and Illustrations
+
+We've compiled some visuals that can be used in blog posts, Tweets, or other media to reference to Mode. Like with the other assets in this repo, they are not allowed to be used to immitate Mode.
+
+[Visual assets and Illustrations](https://drive.google.com/file/d/1Cr6TVnWi_bZr8Z6kMBDRZ8AyhW3ROK_m/view?usp=sharing)
 
 
 ## Typography
