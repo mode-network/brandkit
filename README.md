@@ -54,7 +54,8 @@ We've compiled some visuals that can be used in blog posts, Tweets, or other med
 
 ### Headline
 Chakra Peth 
-[Font](https://fonts.google.com/specimen/IBM+Plex+Sans)
+[Font](https://fonts.google.com/specimen/Chakra+Petch)
+
 
 ### Body
 IBM Plex Sans 
