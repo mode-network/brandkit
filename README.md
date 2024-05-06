@@ -53,7 +53,7 @@ We've compiled some visuals that can be used in blog posts, Tweets, or other med
 ## Typography
 
 ### Headline
-Chakra Peth 
+Chakra Petch 
 [Font](https://fonts.google.com/specimen/IBM+Plex+Sans)
 
 ### Body
